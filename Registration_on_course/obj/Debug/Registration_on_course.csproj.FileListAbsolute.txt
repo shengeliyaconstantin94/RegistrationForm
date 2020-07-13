@@ -1,0 +1,47 @@
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.exe.config
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\bin\Debug\Students_profile.mdf
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\bin\Debug\Students_profile_log.ldf
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.exe
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.pdb
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.Form1.resources
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.Properties.Resources.resources
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.csproj.GenerateResource.Cache
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.exe
+C:\Users\Студент\Desktop\Керимов\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.pdb
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.exe.config
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.exe
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.pdb
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Students_profile.mdf
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Students_profile_log.ldf
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.exe
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.pdb
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.Form1.resources
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.DeleteForm.resources
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.exe.config
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.exe
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.pdb
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Students_profile.mdf
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Students_profile_log.ldf
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.exe
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.pdb
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.csprojResolveAssemblyReference.cache
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.DeleteForm.resources
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.Form1.resources
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.Properties.Resources.resources
+C:\Users\Чижова\Desktop\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.csproj.GenerateResource.Cache
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.exe.config
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.exe
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.pdb
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\bin\Debug\Students_profile.mdf
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\bin\Debug\Students_profile_log.ldf
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.exe
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\bin\Debug\Registration_on_course.pdb
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.csprojResolveAssemblyReference.cache
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.DeleteForm.resources
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.Form1.resources
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.Properties.Resources.resources
+C:\Users\Чижова\Desktop\Мои программы\Registration_on_course\Registration_on_course\obj\Debug\Registration_on_course.csproj.GenerateResource.Cache
